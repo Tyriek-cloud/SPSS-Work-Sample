@@ -1,9 +1,6 @@
 # SPSS-Work-Sample
 
-# **Familial Care and Patient Care: Testing if Having Siblings Is Independent of Having Opinions on Letting Patients with Incurable Diseases Die** 
-[Tyriek Warren
-
-Independent Samples T-Test]
+# **Familial Care and Patient Care: Testing if Having Siblings Is Independent of Having Opinions on Letting Patients with Incurable Diseases Die [Independent Samples T-Test]** 
  
 # **Introduction**
 The purpose of this study is to observe if a sample of people that has siblings is independent of a sample of people that possess an opinion of whether patients with incurable diseases should be allowed to die. This study will explore a currently contested debate in Medical Ethics and Public Health. Furthermore, this study may serve as a cited reference for policy makers, research organizations, medical institutions, and others in drafting policy, research, or for general argumentative purposes of currently contested medical ethics. Overall, such research may be beneficial because it could externally validate current medical literature. This study will conduct an Independent Samples T-Test to compare means and observe statistical phenomena. 
