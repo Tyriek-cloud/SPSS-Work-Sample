@@ -39,6 +39,7 @@ Reynolds, L., Botha, D. (2006), Anticipatory grief: Its nature, impact, and reas
 findings. Counselling, Psychotherapy, and Health, 2(2), 15-26. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.538.2320&rep=rep1&type=pdf  
 
 **SPSS OUTPUT**
+
 ![image](https://github.com/Tyriek-cloud/SPSS-Work-Sample/assets/62261407/87f8a3a7-629a-41d4-9349-0d4360b8eb5d)
 ![image](https://github.com/Tyriek-cloud/SPSS-Work-Sample/assets/62261407/15bdbacb-fafb-4e50-ae28-b8c64621c530)
 ![image](https://github.com/Tyriek-cloud/SPSS-Work-Sample/assets/62261407/c0ce6339-a48d-4498-a980-0f0856c470a3)
